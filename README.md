@@ -1,5 +1,1 @@
-I'm Laksitha.
-I'm pursuing BE.COMPUTER SCIENCE AND DESIGN at kongu engineering college.
-My area of intrest is UI/UX design and Data structures.
-My short term goal is to get placed in a reputed company.
-My long term goal is to become an expert in the field i work.
+"Hi, I'm Laksitha! 👋 Currently pursuing a BE in Computer Science and Design at Kongu Engineering College, I have a strong interest in UI/UX design, Data Structures, Full-Stack Development, and DevOps. I love building seamless user experiences, optimizing code efficiency, and exploring scalable architectures. My short-term goal is to secure a role in a reputed company, and my long-term aspiration is to become an expert in my field. Always eager to learn, innovate, and grow!"
