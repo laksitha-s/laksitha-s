@@ -52,8 +52,7 @@ Always blending code with design to build intuitive and innovative experiences! 
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40" alt="adobe photoshop logo" />
 <img width="12" />
-<img src="https://seeklogo.com/images/F/framer-logo-DA1E33FAA1-seeklogo.com.png" height="40" alt="framer logo" />
-<img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
